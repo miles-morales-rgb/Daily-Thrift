@@ -79,27 +79,6 @@ p{
     text-align: right;
 }
 
-/* ======= later use 
-
-.product{
-    display: inline-block;
-    margin: -12px;
-    text-align: center;
-    cursor: pointer;
-}
-
-.product img{
-    width: 200px;
-    border-radius: 10px;
-    transition: 0.3s;
-    cursor: pointer;
-}
-
-.product img:hover {
-    border-color: #000000;
-    box-shadow: 0 0 20px #000000;
-}
-========= */
 #productContainer {
     display: flex;
     flex-wrap: wrap;
@@ -286,7 +265,7 @@ img{
         height: 170px;
     }
     #searchBar{
-        width: 300px;
+        width: 233px;
     }
 }
 
