@@ -83,7 +83,7 @@ p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 6px;
     margin-top: 20px;
 }
 
@@ -185,7 +185,6 @@ main{
     background: linear-gradient(135deg, #000000, #434343); /* Black metallic fade */
     background-size: 400% 400%;
     animation: metallic 10s ease infinite; /* Added metallic effect animation */
-    padding: 20px;
     color: white; /* Text color for better contrast */
 }
 
